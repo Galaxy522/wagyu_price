@@ -60,6 +60,7 @@ footer {
 
 .card {
   border-radius: 0;
+  background-color: yellow;
 }
 
 #page-top {
@@ -80,3 +81,4 @@ footer {
   height: 100%;
   border-radius: 50%;
 }
+
